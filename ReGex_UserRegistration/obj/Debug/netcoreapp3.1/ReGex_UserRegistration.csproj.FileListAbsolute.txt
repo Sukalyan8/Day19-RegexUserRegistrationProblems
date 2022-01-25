@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.exe
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.deps.json
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.runtimeconfig.json
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.dll
+C:\Users\Hp\source\repos\ReGex_UserRegistration\bin\Debug\netcoreapp3.1\ReGex_UserRegistration.pdb
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.dll
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.pdb
+C:\Users\Hp\source\repos\ReGex_UserRegistration\obj\Debug\netcoreapp3.1\ReGex_UserRegistration.genruntimeconfig.cache
